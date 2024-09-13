@@ -33,6 +33,7 @@ ALLOWED_HOSTS = ["*"]
 
 INSTALLED_APPS = [
     'tailwind',
+    'styles',
     'theme',
     'tinymce',
     'home.apps.HomeConfig',
